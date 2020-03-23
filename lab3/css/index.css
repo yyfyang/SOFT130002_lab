@@ -1,0 +1,33 @@
+html{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+header {
+    background-color: #6cb8ed;
+    width: 100%;
+    height: 50px;
+    list-style-type: none;
+}
+aside {
+    background-color: #33caff;
+    width: 80px;
+    height: 70px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #4565ed;
+}
+footer{
+    text-align: center;
+}
+h4{
+    color:gray;
+}
+p{
+    color: darkslateblue;
+}
+small{
+    color: palevioletred;
+    font-weight: bold;
+}
