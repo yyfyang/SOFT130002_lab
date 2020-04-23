@@ -5,4 +5,4 @@
 在第三个中，运用循环函数遍历出，出现最多字符以及它所对应的次数。使用了object类型的数组，每次循环来记录字符的出现次数。  
 
 ![截图](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab5/lab5需求文档.assets/截图.jpg)
-![github](lab5需求文档.assets\github.jpg)
+![github](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab5/lab5需求文档.assets/github.jpg)
