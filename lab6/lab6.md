@@ -1,4 +1,4 @@
-# Lab5设计文档  
+# Lab6设计文档  
 正则表达式理解
 -------------
 在判断邮箱的正确时，我运用了^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$。其中^用来匹配邮箱的开始部分，\w+([-+.]\w+)则是表示邮箱的名称等价于 A- Z a - z 0-9 和 _ 的字符 [-+.] 字符集合，+ 表示匹配前面的子表达式至少一次，*表示匹配前面的子表达式零次或多次，$ 表示匹配输入字符串的结尾位置。  
@@ -14,14 +14,15 @@ Map、Set、Array之间的区别和使用
 -------------
 Map有key和与之对应的value，使用它的时候可以较为便利的获得对象数组中的特定属性值。Set是没有重复元素的，但筛选未重复元素时，尤为便利。Array就是常规的数组，相比于Map和Set它可以直接获取指定位置的元素。三种数组类型各有各的特点。
 
-![1](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/1.jpg)
+![1](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/1.jpg)  
 ![2](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/2.jpg)  
-![3](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/3.jpg)
+![3](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/3.jpg)  
 ![4](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/4.jpg)  
-![5](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/5.jpg)
+![5](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/5.jpg)  
 ![6](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/6.jpg)  
-![7](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/7.jpg)
-![8](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/8.jpg)
+![7](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/7.jpg)  
+![8](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/8.jpg)  
+![截图](https://github.com/yyfyang/SOFT130002_lab/blob/master/lab6/图片/截图.jpg)
 
 
 
