@@ -19,7 +19,7 @@ for (i=0;i<4;i++){
     var h1=document.createElement("h3");
     var t12=document.createTextNode(works[i].author);
     h1.appendChild(t12);
-    var h2=document.createElement("p");
+    var h2=document.createElement("h5");
     var t22=document.createTextNode("lifetime:"+works[i].lifetime);
     h2.appendChild(t22);
     var innerdiv2=document.createElement("div");
@@ -35,7 +35,7 @@ for (i=0;i<4;i++){
         x="85px";
     }
     h2.style.left=x;
-    h2.style.bottom="24px";
+    h2.style.bottom="44px";
     innerdiv2.append(h1 ,h2);
     innerdiv2.setAttribute("class", "inner-box");
     innerdiv2.style.height="36px";
